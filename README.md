@@ -15,3 +15,5 @@
 1º Projeto está pronto
 
 2º Está simples, basta dar npm install
+
+3° Pronto!
