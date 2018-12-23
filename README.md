@@ -15,7 +15,3 @@
 1º Projeto está pronto
 
 2º Está simples, basta dar npm install
-=======
-IONIC-One
-1º Projeto está pronto
-2º Está simples
