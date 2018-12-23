@@ -1,6 +1,6 @@
 ## IONIC-Zero
 
-1º Instalar o "NVM" node version manager. Este pacote te deixa ter várias versões simultâneas do node e do NPM. Seguem os links de instalação para os sistemas operacionais.
+1º Caso necessario instalar o "NVM" node version manager. Este pacote te deixa ter várias versões simultâneas do node e do NPM. Seguem os links de instalação para os sistemas operacionais.
 
 - Linux: https://github.com/creationix/nvm
 
