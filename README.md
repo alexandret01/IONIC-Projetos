@@ -17,3 +17,9 @@
 2º Está simples, basta dar npm install
 
 3° Pronto!
+
+## IONIC-Firebase
+
+1º Estou trabalhando nele ainda
+
+2º Será um chat, apenas para ganhar experiencia no desenvolvimento
