@@ -8,7 +8,7 @@
 
 ## IONIC-Firebase
 
-1º Estou trabalhando nele ainda
+1º Projeto está pronto
 
 2º Está simples, basta dar npm install
 
